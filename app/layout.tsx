@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     url: "https://kbrs.co.kr",
     images: [
       {
-        url: "/commons/kerberos.png",
+        url: "/common/kerberos.png",
         width: 800,
         height: 400,
         alt: "Kerberos Marketing",

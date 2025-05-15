@@ -34,11 +34,13 @@ export const metadata: Metadata = {
     url: "https://kbrs.co.kr",
     images: [
       {
-        url: "/kerberos.png",
-        width: 1200,
-        height: 630,
+        url: "/commons/kerberos.png",
+        width: 800,
+        height: 400,
+        alt: "Kerberos Marketing",
       },
     ],
+    siteName: "Kerberos",
   },
   robots: {
     index: true,
@@ -50,6 +52,10 @@ export const metadata: Metadata = {
   other: {
     "naver-site-verification": "e642e6051c62d02caba3e508305dc2826689e20b",
     "google-site-verification": "rqTW3JwDaXEkhKqfZf_UqOeIWfzlEGVGHU5ap1dQloM",
+    "kakao:title": "Kerberos - MICE 기반 마케팅 기획사",
+    "kakao:description":
+      "켈베로스(캘베로스, 캘배로스) - 오프라인 팝업, 전시, 박람회 기획 전문",
+    "kakao:image": "https://kbrs.co.kr/kerberos-og.jpg",
   },
 };
 

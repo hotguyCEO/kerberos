@@ -70,8 +70,10 @@ export default function AboutUs() {
               imageAlt="리포트 아이콘"
             >
               <AboutCardContent
-                title="사후 피드백 및 리포트"
-                description="사후 피드백 및 리포트 제공"
+                // title="사후 피드백 및 리포트"
+                // description="사후 피드백 및 리포트 제공"
+                title="브랜드 컨설팅"
+                description="브랜드 컨설팅 및 브랜드 전략 수립"
               />
             </Card>
           </FadeInUp>

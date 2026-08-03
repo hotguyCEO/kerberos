@@ -20,8 +20,8 @@ export default function Footer() {
             priority
           />
         </div>
-        <div className="flex flex-col md:flex-row md:items-center md:justify-between h-full tracking-tight-2 text-14 sm:text-15 md:text-16">
-          <div className="flex flex-col leading-150 md:leading-140 mb-6 md:mb-0 gap-1 md:gap-0">
+        <div className="flex flex-col md:flex-row md:items-end md:justify-between h-full tracking-tight-2 text-14 sm:text-15 md:text-18">
+          <div className="flex flex-col leading-150 md:leading-140 mb-6 md:mb-0 gap-1 md:gap-2">
             <p className="mb-0 md:mb-0">
               주식회사 켈베로스 <span className="mx-1">|</span> 대표이사: 유승
             </p>
@@ -30,15 +30,15 @@ export default function Footer() {
               <p>이메일: corp.kerberos@gmail.com</p>
             </div>
             <div className="hidden md:block">
-              <p>
-                대표번호: 031-340-3939 <span className="mx-1">|</span> 이메일:
-                corp.kerberos@gmail.com
-              </p>
+              <p>이메일: corp.kerberos@gmail.com</p>
             </div>
-            <p className="mt-0 md:mt-0">경기도 안양시 동안구 엘에스로 92</p>
+            <p className="mt-0 md:mt-0">
+              주소: 경기도 안양시 동안구 벌말로 102번길 49, 안양스마트베이2
+              410-2호 (우) 14057
+            </p>
           </div>
 
-          <div className="flex flex-col items-end gap-2">
+          <div className="flex flex-col items-start md:items-end justify-end gap-2">
             <button
               onClick={() => setIsPrivacyPolicyOpen(true)}
               className="text-white/60 hover:text-white transition-colors text-12 sm:text-14 md:text-16"

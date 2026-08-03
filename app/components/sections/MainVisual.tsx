@@ -35,8 +35,8 @@ export default function MainVisual() {
           <article className="text-white font-normal leading-150 mb-[40px] sm:mb-[60px] text-base sm:text-lg md:text-xl">
             <p>브랜드의 영원한 파트너, 켈베로스가 함께합니다.</p>
             <p className="mt-2">
-              오프라인 팝업, 전시, 박람회를 중심으로 브랜드의 경험을 기획하고
-              실행하는
+              브랜드 컨설팅 및 오프라인 팝업, 전시, 박람회를 중심으로 브랜드의
+              경험을 기획하고 실행하는
             </p>
             <p className="mt-2">
               MICE 기반 마케팅 그룹,{" "}

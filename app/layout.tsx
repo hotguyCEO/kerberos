@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     title: "Kerberos - MICE 기반 마케팅 기획사",
     description:
       "켈베로스(캘베로스, 캘배로스) - 오프라인 팝업, 전시, 박람회 기획 전문",
-    url: "https://kbrs.co.kr",
+    url: "https://www.kbrs.co.kr",
     images: [
       {
         url: "/common/kerberos.png",
@@ -47,7 +47,7 @@ export const metadata: Metadata = {
     follow: true,
   },
   alternates: {
-    canonical: "https://kbrs.co.kr",
+    canonical: "https://www.kbrs.co.kr",
   },
   other: {
     "naver-site-verification": "8a7e0d9d6129d738361a077917594af970af56d6",
@@ -55,7 +55,7 @@ export const metadata: Metadata = {
     "kakao:title": "Kerberos - MICE 기반 마케팅 기획사",
     "kakao:description":
       "켈베로스(캘베로스, 캘배로스) - 오프라인 팝업, 전시, 박람회 기획 전문",
-    "kakao:image": "https://kbrs.co.kr/kerberos-og.jpg",
+    "kakao:image": "https://www.kbrs.co.kr/kerberos-og.jpg",
   },
 };
 

@@ -24,3 +24,7 @@ a {
     @apply hover:text-primary transition-colors cursor-pointer;
   }
 }
+
+.test {
+  background-color: red;
+}

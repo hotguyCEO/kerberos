@@ -50,7 +50,7 @@ export const metadata: Metadata = {
     canonical: "https://kbrs.co.kr",
   },
   other: {
-    "naver-site-verification": "e642e6051c62d02caba3e508305dc2826689e20b",
+    "naver-site-verification": "8a7e0d9d6129d738361a077917594af970af56d6",
     "google-site-verification": "rqTW3JwDaXEkhKqfZf_UqOeIWfzlEGVGHU5ap1dQloM",
     "kakao:title": "Kerberos - MICE 기반 마케팅 기획사",
     "kakao:description":
